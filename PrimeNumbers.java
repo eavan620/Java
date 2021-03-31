@@ -1,8 +1,8 @@
 /*
- *A number n ∈ N, n > 1 is called prime if it has exactly two factors: 1 and itself.
- *Write a function isPrime(int n) that takes an integer n and return true if and only if n is prime.
- *Write a function nextPrime(int n) that returns the next prime number p that is larger than or equal to n, i.e. if n is prime, return n, otherwise return the next larger prime number.
- *Within the main function give suitable test cases for your functions.
+ * A number n ∈ N, n > 1 is called prime if it has exactly two factors: 1 and itself.
+ * Write a function isPrime(int n) that takes an integer n and return true if and only if n is prime.
+ * Write a function nextPrime(int n) that returns the next prime number p that is larger than or equal to n, i.e. if n is prime, return n, otherwise return the next larger prime number.
+ * Within the main function give suitable test cases for your functions.
  */
 
 public class PrimeNumbers {
